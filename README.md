@@ -8,6 +8,29 @@ We have just learned how to use OpenFeign for internal communication between ser
 
 <br>
 
+Links to my project:
+
+Gateway
+
+[https://github.com/AsterixKo/lab-intro-micro-api-gateway](https://github.com/AsterixKo/lab-intro-micro-api-gateway)
+
+Discovery service
+
+[https://github.com/AsterixKo/lab-intro-micro-discovery-service](https://github.com/AsterixKo/lab-intro-micro-discovery-service)
+
+student-info-service
+
+[https://github.com/AsterixKo/lab-intro-micro-student-info-service](https://github.com/AsterixKo/lab-intro-micro-student-info-service)
+
+grades-data-service
+
+[https://github.com/AsterixKo/lab-intro-micro-grades-data-service](https://github.com/AsterixKo/lab-intro-micro-grades-data-service)
+
+student-catalog-service
+
+[https://github.com/AsterixKo/lab-intro-micro-student-catalog-service](https://github.com/AsterixKo/lab-intro-micro-student-catalog-service)
+
+
 ## Requirements
 
 1. Fork this repo.
